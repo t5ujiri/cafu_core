@@ -1,0 +1,22 @@
+{
+  "name": "net.caffeineinject.cafu-core",
+  "displayName": "CAFU Core",
+  "version": "3.1.0",
+  "unity": "2019.3",
+  "description": "",
+  "author": {
+    "name": "Tetsuya Mori",
+    "url": "https://me.monry.dev/",
+    "email": "monry84@gmail.com"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "category": "",
+  "dependencies": {
+    "com.neuecc.unirx": "7.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/t5ujiri/cafu_core"
+  }
+}
