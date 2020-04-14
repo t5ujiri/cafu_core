@@ -1,5 +1,5 @@
 {
-  "name": "dev.upm-packages.cafu-core",
+  "name": "net.caffeineinject.cafu-core",
   "displayName": "CAFU Core",
   "version": "3.1.0",
   "unity": "2019.3",
@@ -13,11 +13,10 @@
   "keywords": [],
   "category": "",
   "dependencies": {
-    "dev.upm-packages.unirx-observablelifecyclemonobehaviour": "1.3.0",
-    "jp.cysharp.unirx": "7.1.0"
+    "com.neuecc.unirx": "7.1.0"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/umm/cafu_core"
+    "url": "https://github.com/t5ujiri/cafu_core"
   }
 }
